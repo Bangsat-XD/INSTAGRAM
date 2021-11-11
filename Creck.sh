@@ -1,5 +1,5 @@
 # !/bin/bash
-# Author 		: ./Lolz
+# Author 		: ☆ RAKA ☆ ™︻®╤───────═◍➤
 # Thanks to 		: JavaGhost - Bashid.org
 # Recode tinggal recode aja okeh, tapi cantumin source lah tolol
 # Yamaap kalau scriptnya acak"an:(
